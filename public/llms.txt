@@ -1,0 +1,22 @@
+# Nafi Siam — ORM Executive & AI Engineer
+
+> Nafi Siam is an Online Reputation Management (ORM) executive and AI engineer
+> based in Dhaka, Bangladesh. He leads reputation campaigns that suppress
+> negative search results and build positive digital assets, and he builds
+> AI-powered web applications, SEO systems, and automation pipelines end-to-end.
+
+## Pages
+
+- [Home](/): Overview of Nafi Siam's work in ORM, AI engineering, and SEO.
+- [About](/about/): Background, skills, and working approach.
+- [Services](/services/): Online Reputation Management, AI Engineering & Automation, SEO & Google Business Profile optimization.
+- [Projects](/projects/): Selected campaigns and builds (client identities confidential).
+- [Contact](/contact/): Email nafisiam4@gmail.com, LinkedIn, phone.
+
+## Facts
+
+- Roles: ORM Executive & Team Leader, AI Engineer
+- Location: Dhaka, Bangladesh (works worldwide, remote-first)
+- Stack: Next.js, Supabase, WordPress, Lovable, AI content pipelines
+- Contact: nafisiam4@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nafiu-ibne-mazhar/
