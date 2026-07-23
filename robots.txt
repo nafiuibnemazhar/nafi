@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://nafiuibnemazhar.github.io/nafi/sitemap.xml
